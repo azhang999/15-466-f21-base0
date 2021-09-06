@@ -17,6 +17,7 @@ Space - deselect the paddle you have selected
 f - use the power up in your inventory
 
 Power ups:
+
 Projection - reveals the trajectory of the ball
 
 ![Screen Shot](projection.png)
